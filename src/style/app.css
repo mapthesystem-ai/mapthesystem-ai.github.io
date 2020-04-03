@@ -1,0 +1,20 @@
+.map{
+    width: 100vw;
+}
+
+body{
+    background: #08163A !important;
+}
+
+.navbar {
+    background-color: rgb(0, 17, 60);
+    color: white;
+}
+
+nav > a, li > a {
+    color: white;
+}
+
+h1 {
+    color: white;
+}

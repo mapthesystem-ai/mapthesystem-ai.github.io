@@ -1,0 +1,167 @@
+@import "./variables.scss";
+
+.report-hero {
+  display: flex;
+  justify-content: center;
+
+  & h1 {
+    font-weight: 800;
+    color: $yellow;
+  }
+}
+
+.hero {
+  background-image: url(../images/hero-01.png);
+  background-size: cover;
+  background-position: center;
+
+  width: 100%;
+  height: 20em;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2em;
+  box-shadow: 0px 2px 20px rgba(#44c7ff, 0.5);
+
+  &__title {
+    font-size: 5em;
+    font-weight: 800;
+    color: $yellow;
+  }
+}
+
+.report {
+  background-image: url(../images/morewavedesign-03.png);
+  background-size: contain;
+  &__title {
+    font-weight: 700;
+    font-style: italic;
+    color: $yellow;
+    text-shadow: rgba(rgb(44, 44, 117), 1) 2px 2px 5px;
+  }
+
+  &__biblios {
+    background-image: url(../images/wavedesign-03.png);
+    background-size: cover;
+  }
+
+  &__paragraph,
+  &__list {
+    color: white;
+  }
+
+  &__subtitle {
+    color: $blue;
+    font-weight: 700;
+    margin-bottom: 0.75em;
+  }
+
+  &__levers {
+    margin: 1.5em 5em;
+
+    &--title {
+      color: $red;
+      font-weight: 600;
+    }
+  }
+
+  &__gaps {
+    margin: 1.5em 0;
+    &--point {
+      color: white;
+      font-weight: 600;
+      margin: 1.5em 0;
+    }
+    &--subpoint {
+      color: white;
+      font-weight: 300;
+      font-size: 0.8em;
+    }
+  }
+
+  &__section {
+    margin: 7em 0;
+  }
+  &__subSection {
+    margin: 4em 20em;
+  }
+
+  &__citation {
+    border-top: 0.75px solid white;
+    border-bottom: 1px solid white;
+    margin: 1.5em 20em;
+
+    &--para {
+      color: white;
+      font-size: 0.7em;
+      margin: 1em 0;
+    }
+  }
+
+  &__header {
+    background-image: url(../images/header.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+    margin: 0 20em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 7em;
+
+    margin-bottom: 2em;
+  }
+}
+
+.biblio-indent {
+  text-indent: -2em;
+  margin: 1em 2em;
+}
+
+@media screen and (max-width: 1280px) {
+  .report {
+    &__subSection {
+      margin: 2em 7em;
+    }
+
+    &__citation {
+      margin: 1.5em 7em;
+    }
+
+    &__header {
+      margin: 0 7em;
+    }
+  }
+
+  .biblio-indent {
+    margin: 1em 2em;
+    overflow-wrap: break-word;
+  }
+
+  .hero {
+    &__title {
+      font-size: 3em;
+    }
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .report {
+    &__subSection {
+      margin: 2em 3em;
+    }
+
+    &__citation {
+      margin: 1.5em 3em;
+    }
+
+    &__header {
+      margin: 0 3em;
+    }
+
+    &__levers {
+      margin: 1.5em 0em;
+    }
+  }
+}

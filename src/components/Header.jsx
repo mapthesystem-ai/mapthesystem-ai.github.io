@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"
 
 import {
   Collapse,
@@ -12,18 +12,18 @@ import {
   DropdownToggle,
   DropdownMenu,
   DropdownItem,
-} from "reactstrap";
+} from "reactstrap"
 
-import "../style/app.css";
-import "bootstrap/dist/css/bootstrap.min.css";
+import "../style/app.css"
+import "bootstrap/dist/css/bootstrap.min.css"
 
 class Header extends React.Component {
   state = {
     dropDownIsOpen: false,
-  };
+  }
 
   dropDownToggle = () =>
-    this.setState({ dropDownIsOpen: !this.state.dropDownIsOpen });
+    this.setState({ dropDownIsOpen: !this.state.dropDownIsOpen })
 
   render() {
     return (
@@ -42,25 +42,12 @@ class Header extends React.Component {
               <NavItem>
                 <NavLink href="/Report/">Report</NavLink>
               </NavItem>
-              <UncontrolledDropdown nav inNavbar>
-                <DropdownToggle nav caret>
-                  Dropdown
-                </DropdownToggle>
-                <DropdownMenu right>
-                  <DropdownItem tag="a" href="/#">
-                    drop #1
-                  </DropdownItem>
-                  <DropdownItem tag="a" href="/#">
-                    drop #2
-                  </DropdownItem>
-                </DropdownMenu>
-              </UncontrolledDropdown>
             </Nav>
           </Collapse>
         </Navbar>
       </nav>
-    );
+    )
   }
 }
 
-export default Header;
+export default Header

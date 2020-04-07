@@ -160,45 +160,54 @@ const ProblemLandscape = () => (
     </div>
     <div className="report__citation">
       <p className="report__citation--para">
-        [4] Rayome, Alison DeNisco. “How AI Could Save the Environment.”
-        TechRepublic. TechRepublic, March 2, 2020.
-        https://www.techrepublic.com/article/how-ai-could-save-the-environment/.[5]
-        “What Is an Autonomous Car? - How Self Driving Cars Work.” Synopsys.
-        Accessed March 23, 2020.
-        https://www.synopsys.com/automotive/what-is-autonomous-car.html [6]
-        “What Is an Autonomous Car? - How Self Driving Cars Work.” Synopsys.
-        Accessed March 23, 2020.
-        https://www.synopsys.com/automotive/what-is-autonomous-car.html [7]
-        “Institute for Transportation and Development Policy.” Institute for
-        Transportation and Development Policy, March 9, 2020.
-        https://www.itdp.org/. [8] Howard, Daniel, and Danielle Dai. "Public
-        perceptions of self-driving cars: The case of Berkeley, California." In
+        [4] Ben Safran, Tyler Duvall, Eric Hannon, Jared Katseff, and Tyler
+        Wallace, “A New Look at Autonomous-Vehicle Infrastructure,” McKinsey &
+        Company (McKinsey & Company), May 2019,
+        https://www.mckinsey.com/industries/capital-projects-and-infrastructure/our-insights/a-new-look-at-autonomous-vehicle-infrastructure)
+        [5] James Sanders, “Why 5G Is a Crucial Technology for Autonomous
+        Vehicles,” ZDNet (ZDNet), November 4, 2019,
+        https://www.zdnet.com/article/why-5g-is-a-crucial-technology-for-autonomous-vehicles/)
+        [6] “Examples of AI Used in Healthcare,” ReferralMD, March 11, 2020,
+        https://getreferralmd.com/2019/04/10-powerful-examples-of-ai-used-in-healthcare-today/)
+        [7] Alison DeNisco Rayome, “How AI Could Save the Environment,”
+        TechRepublic, (TechRepublic), March 2, 2020,
+        https://www.techrepublic.com/article/how-ai-could-save-the-environment/.
+        [8] “What Is an Autonomous Car? - How Self Driving Cars Work,” Synopsys,
+        Accessed March 23, 2020,
+        https://www.synopsys.com/automotive/what-is-autonomous-car.html [9]
+        “What Is an Autonomous Car? - How Self Driving Cars Work.” Synopsys,
+        Accessed March 23, 2020,
+        https://www.synopsys.com/automotive/what-is-autonomous-car.html [10]
+        “Institute for Transportation and Development Policy,” Institute for
+        Transportation and Development Policy, March 9, 2020,
+        https://www.itdp.org/. [11] Daniel Howard and Danielle Dai, "Public
+        perceptions of self-driving cars: The case of Berkeley, California," In
         Transportation research board 93rd annual meeting, vol. 14, no. 4502,
-        pp. 1-16. 2014. [9] Herweijer, Celine. “8 Ways AI Can Help Save the
-        Planet.” World Economic Forum. Accessed March 10, 2020.
+        pp. 1-16. 2014. [12] Celine Herweijer, “8 Ways AI Can Help Save the
+        Planet,” World Economic Forum, Accessed March 10, 2020,
         https://www.weforum.org/agenda/2018/01/8-ways-ai-can-help-save-the-planet/.
-        [10] “Smart Farming: The Rise of AgriTech and Its Legal Issues.”
-        Dentons. Accessed March 23, 2020.
-        https://www.dentons.com/en/insights/articles/2019/january/8/smart-farming-the-rise-of-agritech-and-its-legal-issues[11]
-        Center for Curriculum Redesign. “Artificial Intelligence in Education.”
-        Center for Curriculum Redesign. Center for Curriculum Redesign, March
-        2019.
+        [13] “Smart Farming: The Rise of AgriTech and Its Legal Issues,”
+        Dentons, Accessed March 23, 2020,
+        https://www.dentons.com/en/insights/articles/2019/january/8/smart-farming-the-rise-of-agritech-and-its-legal-issues
+        [14] “Artificial Intelligence in Education,” Center for Curriculum
+        Redesign, (Center for Curriculum Redesign), Center for Curriculum
+        Redesign, March 2019,
         https://curriculumredesign.org/our-work/artificial-intelligence-in-education/.
-        [12] Marr, Bernard. “How Is AI Used In Education -- Real World Examples
-        Of Today And A Peek Into The Future.” Forbes. Forbes Magazine, July 25,
-        2018.
+        [15] Bernard Marr, “How Is AI Used In Education -- Real World Examples
+        Of Today And A Peek Into The Future,” Forbes, (Forbes Magazine), July
+        25, 2018,
         https://www.forbes.com/sites/bernardmarr/2018/07/25/how-is-ai-used-in-education-real-world-examples-of-today-and-a-peek-into-the-future/#24ecf031586e.
-        [13] “AI in Education: Where Is It Now and What Is the Future?”
-        Lexalytics. Lexalytics, November 18, 2019.
+        [16] “AI in Education: Where Is It Now and What Is the Future?”
+        Lexalytics, (Lexalytics), November 18, 2019,
         https://www.lexalytics.com/lexablog/ai-in-education-present-future-ethics.
-        [14] Wladawsky-Berger, Irving. “The Impact of Artificial Intelligence on
-        the World Economy.” The Wall Street Journal. Dow Jones & Company,
+        [17] Irving Wladawsky-Berger, “The Impact of Artificial Intelligence on
+        the World Economy,” The Wall Street Journal, (Dow Jones & Company),
         November 26, 2018.
         https://blogs.wsj.com/cio/2018/11/16/the-impact-of-artificial-intelligence-on-the-world-economy/.
-        [15] Plumer, Brad, Ezra Klein, David Roberts, Dylan Matthews, Matthew
-        Yglesias, and Timothy B. Lee. “Automation Is Making Human Labor More
-        Valuable than Ever: The New New Economy.” Vox.com. Accessed March 23,
-        2020. https://www.vox.com/a/new-economy-future/manual-labor-luxury-good.
+        [18] Brad Plumer, Ezra Klein, David Roberts, Dylan Matthews, Matthew
+        Yglesias, and Timothy B. Lee, “Automation Is Making Human Labor More
+        Valuable than Ever: The New New Economy,” Vox, Accessed March 23, 2020,
+        https://www.vox.com/a/new-economy-future/manual-labor-luxury-good.
       </p>
     </div>
   </div>
@@ -283,15 +292,15 @@ const ExecutiveSummary = () => (
     </div>
     <div className="report__citation">
       <p className="report__citation--para">
-        [1] Frankenfield, Jake. “How Artificial Intelligence Works.”
-        Investopedia, arch 13, 2020.
-        https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp [2]
-        “Artificial Intelligence – What It Is and Why It Matters.” SAS. Accessed
-        March 25, 2020.
-        https://www.sas.com/en_us/insights/analytics/what-is-artificial-intelligence.html.[3]
-        Niyazov, Sukhayl. “How AI Will Redefine Economics.” Medium. Towards Data
-        Science, November 23, 2019.
-        https://towardsdatascience.com/how-ai-will-redefine-economics-ec305e3cb687.
+        [1] Jake Frankenfield, “How Artificial Intelligence Works,”
+        Investopedia, Accessed March 13, 2020,
+        https://www.investopedia.com/terms/a/artificial-intelligence-ai.asp) [2]
+        “Artificial Intelligence – What It Is and Why It Matters,” SAS, Accessed
+        March 25, 2020,
+        https://www.sas.com/en_us/insights/analytics/what-is-artificial-intelligence.html)
+        [3] Sukhayl Niyazov, “How AI Will Redefine Economics,” Medium (Towards
+        Data Science, November 23, 2019),
+        https://towardsdatascience.com/how-ai-will-redefine-economics-ec305e3cb687)
       </p>
     </div>
   </div>
@@ -400,62 +409,56 @@ const SolutionsLandscape = () => (
     </div>
     <div className="report__citation">
       <p className="report__citation--para">
-        [16] Shanhong Liu, “Number of AI Companies Worldwide 2018, by Country,”
-        Statista (Statista, March 2, 2020),
+        [19] Shanhong Liu, “Number of AI Companies Worldwide 2018, by Country,”
+        Statista (Statista), March 2, 2020,
         https://www.statista.com/statistics/941054/number-of-ai-companies-worldwide-by-country/)
-        [17] Hopper, “AI in Travel, Part 1: Making Travel Recommendations,”
-        Medium (Medium, April 19, 2018),
+        [20] “AI in Travel, Part 1: Making Travel Recommendations,” Hopper,
+        (Medium), April 19, 2018),
         https://medium.com/life-at-hopper/ai-in-travel-part-1-making-travel-recommendations-733a16d9e010)
-        [18] Barkin, Alex (Software Engineer - Machine Learning, Wave HQ).
-        Interviewed by Krystyna Poremba, March 12, 2020. [19] Hopper, “AI in
-        Travel, Part 1: Making Travel Recommendations,” Medium (Medium, April
-        19, 2018),
-        https://medium.com/life-at-hopper/ai-in-travel-part-1-making-travel-recommendations-733a16d9e010)[20]
-        Daniel Faggella, “Everyday Examples of Artificial Intelligence and
+        [21] Alex Barkin (Software Engineer - Machine Learning, Wave HQ),
+        Interviewed by Krystyna Poremba, March 12, 2020. [22] “AI in Travel,
+        Part 1: Making Travel Recommendations,” Hopper, (Medium) April 19, 2018,
+        https://medium.com/life-at-hopper/ai-in-travel-part-1-making-travel-recommendations-733a16d9e010
+        [23] Daniel Faggella, “Everyday Examples of Artificial Intelligence and
         Machine Learning,” Emerj (Emerj, March 10, 2020),
-        https://emerj.com/ai-sector-overviews/everyday-examples-of-ai/) [21]
+        https://emerj.com/ai-sector-overviews/everyday-examples-of-ai/) [24]
         Aarti Shahani, “Uber Plans To Kill Surge Pricing, Though Drivers Say It
         Makes Job Worth It,” NPR (NPR, May 3, 2016),
         https://www.npr.org/sections/alltechconsidered/2016/05/03/476513775/uber-plans-to-kill-surge-pricing-though-drivers-say-it-makes-job-worth-it)
-        [22] Daniel Faggella, “Everyday Examples of Artificial Intelligence and
-        Machine Learning,” Emerj (Emerj, March 10, 2020),
-        https://emerj.com/ai-sector-overviews/everyday-examples-of-ai/) [23]
+        [25] Daniel Faggella, “Everyday Examples of Artificial Intelligence and
+        Machine Learning,” Emerj, (Emerj), March 10, 2020,
+        https://emerj.com/ai-sector-overviews/everyday-examples-of-ai/) [26]
         Daniel Faggella, “Everyday Examples of Artificial Intelligence and
-        Machine Learning,” Emerj (Emerj, March 10, 2020),
-        https://emerj.com/ai-sector-overviews/everyday-examples-of-ai/) [24]
-        Barkin, Alex (Software Engineer - Machine Learning, Wave HQ).
-        Interviewed by Krystyna Poremba, March 12, 2020. [25] Erik O., “All
-        about Automatically Categorizing Transactions,” Wave (Wave, March 22,
-        2020),
+        Machine Learning,” [27] Alex Barkin (Software Engineer - Machine
+        Learning, Wave HQ). [28] Erik O., “All about Automatically Categorizing
+        Transactions,” Wave (Wave), March 22, 2020,
         https://support.waveapps.com/hc/en-us/articles/360001301666-All-about-automatically-categorizing-transactions)
-        [26] Barkin, Alex (Software Engineer - Machine Learning, Wave HQ).
-        Interviewed by Krystyna Poremba, March 12, 2020. [27] Wave, “Introducing
-        Machine Learning,” Wave (Wave, October 12, 2018),
-        https://www.waveapps.com/rebrand/machine-learning) [28] Barkin, Alex
-        (Software Engineer - Machine Learning, Wave HQ). Interviewed by Krystyna
-        Poremba, March 12, 2020. [29] Zoubin Ghahramani, “Unsupervised
-        Learning,” SpringerLink (Springer, Berlin, Heidelberg, February 2,
-        2003), https://link.springer.com/chapter/10.1007/978-3-540-28650-9_5)
-        [30] J. Isaak and M. J. Hanna, "User Data Privacy: Facebook, Cambridge
+        [29] Alex Barkin (Software Engineer - Machine Learning, Wave HQ). [30]
+        “Introducing Machine Learning,” Wave (Wave), October 12, 2018,
+        https://www.waveapps.com/rebrand/machine-learning) [31] Alex Barkin
+        (Software Engineer - Machine Learning, Wave HQ). [32] Zoubin Ghahramani,
+        “Unsupervised Learning,” SpringerLink (Springer, Berlin, Heidelberg),
+        February 2, 2003,
+        https://link.springer.com/chapter/10.1007/978-3-540-28650-9_5) [33] J.
+        Isaak and M. J. Hanna, "User Data Privacy: Facebook, Cambridge
         Analytica, and Privacy Protection," in Computer, vol. 51, no. 8, pp.
-        56-59, August 2018. [31] J. Isaak and M. J. Hanna, "User Data Privacy:
-        Facebook, Cambridge Analytica, and Privacy Protection," in Computer,
-        vol. 51, no. 8, pp. 56-59, August 2018. [32] Cavoukian, Ann. "Privacy by
-        design: The 7 foundational principles." Information and privacy
-        commissioner of Ontario, Canada 5 (2009) [33] Swartz, Nikki. "Canada
-        reviews PIPEDA." Information Management 41, no. 2 (2007): 8. [34] Li,
-        Yuanxiang, Walter Stweart, Jake Zhu, and Anna Ni. "Online privacy policy
-        of the thirty Dow Jones corporations: Compliance with FTC Fair
-        Information Practice Principles and readability assessment."
-        Communications of the IIMA 12, no. 3 (2012): 5. [35] Tankard, Colin.
-        "What the GDPR means for businesses." Network Security 2016, no. 6
-        (2016): 5-8. [36] Insights Team. “Forbes Insights: Rethinking Privacy
-        For The AI Era.” Forbes. Forbes Magazine, March 27, 2019.
-        https://www.forbes.com/sites/insights-intelai/2019/03/27/rethinking-privacy-for-the-ai-era/#1c5746ef7f0.
-        [37] U.S. Congress. House. FUTURE of Artificial Intelligence Act of
-        2017. S.2217. 115th Cong., 1st sess. Introduced in House December 12,
-        2017.
-        https://www.congress.gov/bill/115th-congress/senate-bill/2217/text.
+        56-59, August 2018. [34] J. Isaak and M. J. Hanna, "User Data Privacy:
+        Facebook, Cambridge Analytica, and Privacy Protection" [35] Ann
+        Cavoukian, "Privacy by design: The 7 foundational principles,”
+        Information and privacy commissioner of Ontario, (Canada 5), 2009 [36]
+        Nikki Swartz, "Canada reviews PIPEDA," Information Management 41, no. 2
+        (2007): 8. [37] Yuanxiang Li, Walter Stweart, Jake Zhu, and Anna Ni,
+        "Online privacy policy of the thirty Dow Jones corporations: Compliance
+        with FTC Fair Information Practice Principles and readability
+        assessment," Communications of the IIMA 12, no. 3 (2012): 5. [38] Colin
+        Tankard, "What the GDPR means for businesses," Network Security 2016,
+        no. 6 (2016): 5-8. [39] “Forbes Insights: Rethinking Privacy For The AI
+        Era,” Forbes, (Forbes Magazine), March 27, 2019,
+        https://www.forbes.com/sites/insights-intelai/2019/03/27/rethinking-privacy-for-the-ai-era/#1c5746ef7f0)
+        [40] “FUTURE of Artificial Intelligence Act of 2017,” U.S. Congress,
+        House, S.2217., 115th Cong., 1st sess., Introduced in House December 12,
+        2017,
+        https://www.congress.gov/bill/115th-congress/senate-bill/2217/text)
       </p>
     </div>
   </div>
@@ -565,6 +568,15 @@ const GapsLevers = () => (
         </ol>
       </div>
     </div>
+    <div className="report__citation">
+      <p className="report__citation--para">
+        [41] Ann Cavoukian, "Privacy by design: The 7 foundational principles",
+        Information and privacy commissioner of Ontario, Canada 5 (2009) [42]
+        Quora, “How Do Tech Companies Make Money From Our Personal Data?,”
+        Forbes (Forbes Magazine, June 27, 2019),
+        https://www.forbes.com/sites/quora/2019/06/27/how-do-tech-companies-make-money-from-our-personal-data/#2647664b4788)
+      </p>
+    </div>
   </div>
 )
 
@@ -630,13 +642,13 @@ const KeyInsights = () => (
     </div>
     <div className="report__citation">
       <p className="report__citation--para">
-        [38] Crawley, Mike. “Why Ontario's COVID-19 Testing Underestimates the
-        Spread of the Virus | CBC News.” CBCnews. CBC/Radio Canada, March 24,
-        2020.
-        https://www.cbc.ca/news/canada/toronto/covid19-ontario-coronavirus-positive-tests-cases-1.5507211.
-        [39] “Artificial Intelligence in Medicine.” The Top 4 Applications.
-        Accessed March 25, 2020.
-        https://www.datarevenue.com/en-blog/artificial-intelligence-in-medicine.
+        [38] Mike Crawley, “Why Ontario's COVID-19 Testing Underestimates the
+        Spread of the Virus | CBC News,” CBCnews (CBC/Radio Canada), March 24,
+        2020,
+        https://www.cbc.ca/news/canada/toronto/covid19-ontario-coronavirus-positive-tests-cases-1.5507211)
+        [39] “Artificial Intelligence in Medicine,” The Top 4 Applications,
+        Accessed March 25, 2020,
+        https://www.datarevenue.com/en-blog/artificial-intelligence-in-medicine)
         [40] Ben Dickson, “Why AI Might Be the Most Effective Weapon We Have to
         Fight COVID-19,” Neural | The Next Web, March 17, 2020,
         https://thenextweb.com/neural/2020/03/21/why-ai-might-be-the-most-effective-weapon-we-have-to-fight-covid-19/)

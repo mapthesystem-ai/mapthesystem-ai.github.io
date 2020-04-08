@@ -397,7 +397,7 @@ const SolutionsLandscape = () => (
         Privacy by Design [35], and new legislation. Privacy by Design
         encourages businesses to take proactive action in regards to privacy,
         building it into their core values. Additionally, encouraging lawmakers
-        to improve current regulations (such as PIPPEDA [36], FIPs [37], GDPR
+        to improve current regulations (such as PIPEDA [36], FIPs [37], GDPR
         [38], California Consumer Privacy Act [39] etc.) will enforce businesses
         to have privacy in their minds. The US Congress has a bill known as the
         “Fundamentally Understanding The Usability and Realistic Evolution of
@@ -477,39 +477,44 @@ const GapsLevers = () => (
       </p>
 
       <div className="report__levers">
-        <h2 className="report__levers--title">Levers</h2>
+        <h2 className="report__levers--title">Levers of Change</h2>
         <ol className="report__gaps">
           <li className="report__gaps--point">
             Educate from younger ages, integrate AI into learning
             <ul className="report__gaps--subpoint">
-              <li>Introduce AI technologies from a young age</li>
+              <li>Introduce AI technologies from a younger age; ex. coding tools for toddlers</li>
               <li>
-                While this may not be attainable at home, because of cost or
-                lack of accessibility, these technologies should be integrated
-                into school systems in order to familiarize as much youth as
-                possible
+                Recognizing this may not be attainable at home, due to cost or lack 
+                of accessibility, these technologies should be integrated into schools 
+                in order to familiarize youth as much as possible
               </li>
               <li>
-                This would both spark interest in in AI from a young age and
-                also desensitize people to limit the stigmas so often felt today
+                Results in sparking interest in in AI from a young age and allows the 
+                limitation of the stigmas felt today
               </li>
             </ul>
           </li>
           <li className="report__gaps--point">
-            Promote widespread coding knowledge
+            Promote widespread programming knowledge
             <ul className="report__gaps--subpoint">
-              <li>To avoid a gap between “coders” and “non-coders”</li>
+              <li>Avoid a gap between “coders” and “non-coders”</li>
               <li>
-                Coding can be a daunting area of technology use, and often feels
-                alien to those who are not familiar
+                Programming currently often feels alien to those who are not familiar, 
+                can be daunting to start
               </li>
               <li>
-                Teaching very basic coding languages throughout school will, at
-                least, familiarize more people with the concept of what coding
-                is and what is does, to allow for a better understanding of how
-                technology and AI work, empowering people and giving them more
-                positive feelings of control
+                Embed programming literacy (techniques, systems, ways of thinking) 
+                in addition to learning programming languages in classrooms; allows 
+                for or a better understanding of how technology and AI work, empowering 
+                people and giving them more positive feelings of control
               </li>
+            </ul>
+          </li>
+          <li className="report__gaps--point">
+            More Communication from AI and Technology Companies
+            <ul className="report__gaps--subpoint">
+              <li>Using the ADKAR model (make aware, make desirable, use feedback to 
+                gain knowledge, ensure ability, and reinforce abilities)</li>
             </ul>
           </li>
         </ol>
@@ -524,44 +529,39 @@ const GapsLevers = () => (
       </p>
 
       <div className="report__levers">
-        <h2 className="report__levers--title">Levers</h2>
+        <h2 className="report__levers--title">Levers of Change</h2>
         <ol className="report__gaps">
           <li className="report__gaps--point">
-            More accountability from AI/big tech companies
+            More Accountability from AI and Technology Companies
             <ul className="report__gaps--subpoint">
               <li>
-                Currently there are few laws restricting data collection/use,
-                therefore big tech companies can use our data in any ways they
-                want
+                Currently there are few laws restricting data collection and use, 
+                therefore big tech companies can use our data in any ways they want
               </li>
               <li>
-                The world’s most traded commodity is data, companies treet their
-                market like currency. This makes consumers not want to provide
-                the information that supports this
+                The world’s most traded commodity is data, companies treat it like 
+                currency. Resulting in consumers not wanting to provide their information
               </li>
               <li>
-                create awareness about what actually happens to our data to
-                empower people to choose whether or not to offer it through tech
-                use
+                Create awareness about what actually happens to our data to empower 
+                people to choose whether or not to offer it through technology use
               </li>
             </ul>
           </li>
           <li className="report__gaps--point">
-            Normalize data transparency
+            Normalize Data Transparency
             <ul className="report__gaps--subpoint">
               <li>
-                Normalization of data transparency pushes and promotes data
-                privacy in everyday designs
+                Normalization of data transparency pushes and promotes Privacy by Design [41]
               </li>
               <li>
-                What’s ideal: a shift in ideology among consumers that personal
-                data isn’t property that can be bought, sold or solicited
+                What’s ideal: a shift in ideology among consumers that personal data isn’t 
+                property that can be bought, sold or solicited [42]
               </li>
               <li>
-                Since it has been commodified and assigned value, what’s more
-                realistic is promoting data as information that can be utlizied
-                to make positive developments in technology, but this requires
-                trust that it will not be used against us
+                Due to data’s commodified and assigned value, what’s more realistic is promoting 
+                data as information that can be utilized to make positive developments in technology, 
+                but this requires trust that it will not be used against us
               </li>
             </ul>
           </li>

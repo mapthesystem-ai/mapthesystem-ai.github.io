@@ -24,7 +24,7 @@ class Header extends React.Component {
   render() {
     return (
       <nav  className="navigate">
-        <Navbar expand="md">
+        <Navbar dark expand="md">
           <NavbarBrand href="/">Map the System: AI</NavbarBrand>
           <NavbarToggler onClick={this.dropDownToggle} />
           <Collapse isOpen={this.state.dropDownIsOpen} navbar>

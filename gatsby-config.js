@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Default Starter`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `MTS-AI`,
+    description: `A system analysis of the resistance against the unstoppable progression of AI.`,
+    author: `@mapthesystem-ai`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -15,6 +15,12 @@ module.exports = {
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: "UA-163094810-1",
+      },
+    },
     {
       resolve: `gatsby-plugin-manifest`,
       options: {

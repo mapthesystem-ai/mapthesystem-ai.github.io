@@ -8,10 +8,6 @@ import {
   Nav,
   NavItem,
   NavLink,
-  UncontrolledDropdown,
-  DropdownToggle,
-  DropdownMenu,
-  DropdownItem,
 } from "reactstrap"
 
 import "../style/app.css"
@@ -27,7 +23,7 @@ class Header extends React.Component {
 
   render() {
     return (
-      <nav>
+      <nav  className="navigate">
         <Navbar expand="md">
           <NavbarBrand href="/">Map the System: AI</NavbarBrand>
           <NavbarToggler onClick={this.dropDownToggle} />

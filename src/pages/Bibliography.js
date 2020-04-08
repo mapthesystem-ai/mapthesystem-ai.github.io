@@ -4,11 +4,10 @@ import Header from "../components/Header"
 import SEO from "../components/seo"
 
 import "../style/app.css"
-import header from "../images/header.png"
 const IndexPage = () => (
   <body>
     <Header />
-    <SEO title="Map the system AI" />
+    <SEO title="Map the System AI" />
     <div className="hero">
       <h1 className="hero__title">Bibliography</h1>
     </div>

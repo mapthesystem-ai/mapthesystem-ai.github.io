@@ -8,7 +8,7 @@ import "../style/app.css"
 const IndexPage = () => (
   <body className="reportPage">
     <Header />
-    <SEO title="Map the system AI" />
+    <SEO title="Map the System AI" />
     <div className="hero">
       <h1 className="hero__title">REPORT</h1>
     </div>

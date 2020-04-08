@@ -174,10 +174,10 @@
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
 }
-
+/* 
 .index {
   overflow-x: hidden;
-}
+} */
 
 .map {
   width: 70vw;
@@ -212,6 +212,12 @@ body {
 .navbar {
   background-color: #00113c;
   color: white;
+}
+
+.navigate{
+  position: sticky;
+  z-index: 1000;
+  top: 0;
 }
 
 nav > a,

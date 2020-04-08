@@ -31,7 +31,7 @@ import "animate.css/animate.min.css"
 const IndexPage = () => (
   <body className="index">
     <Header />
-    <SEO title="Map the system AI" />
+    <SEO title="Map the System AI" />
     <div className="map__images">
       <img alt="IMG" src={Hero} className="map__head" />
       <ScrollAnimation
